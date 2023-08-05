@@ -1,0 +1,12 @@
+
+Aug 05, 2023 16:58:40.48 NEW SESSION
+Aug 05, 2023 16:58:40.48 [13872:13000:0805/175840.046:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Aug 05, 2023 17:29:53.118 NEW SESSION
+Aug 05, 2023 17:29:53.118 [12508:20284:0805/182953.117:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 17:29:53.215 [12508:20284:0805/182953.215:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 20:53:19.26 [12772:16752:0805/215319.025:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 20:53:19.154 [12772:16752:0805/215319.154:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 20:55:23.06 [12772:16752:0805/215523.006:ERROR:device_event_log_impl.cc(222)] [21:55:23.005] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Aug 05, 2023 20:59:46.978 [13132:16516:0805/215946.977:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 
+Aug 05, 2023 20:59:47.44 [13132:16516:0805/215947.044:ERROR:feature_processor_state.cc(39)] Processing error occured: model WebAppInstallationPromo failed with UkmEngineDisabled, message: 

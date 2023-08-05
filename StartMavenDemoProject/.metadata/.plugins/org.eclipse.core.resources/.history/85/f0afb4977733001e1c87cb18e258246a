@@ -1,0 +1,20 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<html>
+<head>
+    <title>Custom Login Page</title>
+</head>
+<body>
+    <h1>My Custom Login Page</h1>
+    
+
+    
+    <form:form method="post" action="${pageContext.request.contextPath}/authenticateTheUser">
+    username:<form:input type="text" name="username" path="username" placeholder="Username" /><br/>
+    password:<form:input type="password" name="password" path="password" placeholder="Password" /><br/>
+    <input type="submit" value="Submit" />
+</form:form>
+    
+</body>
+</html>

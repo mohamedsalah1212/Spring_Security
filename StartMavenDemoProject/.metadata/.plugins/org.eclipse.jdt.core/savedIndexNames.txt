@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+D:\starter-learning\StartMavenDemoProject\.metadata\.plugins\org.eclipse.jdt.core
+3180248939.index
+3749771049.index
+4240041420.index
+1301898769.index
+3252502093.index
+1708494239.index
+3269013160.index
+338355637.index
+2797953137.index
+1119260392.index
+4262802587.index
+3052060969.index
+3146687738.index
+3510620661.index
+3028503117.index
+2138320008.index
+2610986044.index
+3011291053.index
+495300836.index
+3030748775.index
+3887447689.index
+1865797976.index
+3649480582.index
+592275134.index
